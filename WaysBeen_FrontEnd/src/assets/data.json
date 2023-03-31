@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Guetamala Beans",
+    "price": 200000,
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia",
+    "stock": 500,
+    "photo": "produk4.png"
+  },
+  {
+    "id": 2,
+    "name": "Nicaragua Beans",
+    "price": 500000,
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia",
+    "stock": 300,
+    "photo": "produk3.png"
+  },
+  {
+    "id": 3,
+    "name": "Rwanda Beans",
+    "price": 300000,
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia",
+    "stock": 150,
+    "photo": "produk1.png"
+  },
+  {
+    "id": 3,
+    "name": "Rwanda Beans",
+    "price": 300000,
+    "description": "Hampir semua referensi sepakat mengatakan bahwa kopi pertama kali ditemukan di Ethiopia",
+    "stock": 150,
+    "photo": "produk2.png"
+  }
+]
